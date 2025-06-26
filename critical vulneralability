@@ -1,0 +1,19 @@
+    Critical Vulnerability: SSL/TLS: Certificate Expired
+
+        Host: 192.168.1.116
+
+        Port: 443
+
+        Severity: Medium (5.0)
+
+        Fix: Renew the expired certificate using Let's Encrypt or your CA.
+
+    Other Findings (Informational):
+
+        ICMP Timestamp Detection
+
+        Missing PFS cipher suites
+
+        SSL Certificate details and supported cipher list
+
+        Detected running services and open ports
